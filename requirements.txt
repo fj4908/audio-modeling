@@ -1,7 +1,6 @@
 pandas
 numpy
 scipy
-scikit-learn
 xgboost
 stumpy
 
@@ -28,4 +27,4 @@ ipython-sql
 
 paho-mqtt
 weave
-scikit-learn
+pycaret
